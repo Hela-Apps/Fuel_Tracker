@@ -1,0 +1,147 @@
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.AssemblyInfoInputs.cache
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.AssemblyInfo.cs
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.csproj.CoreCompileInputs.cache
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\Data\Sri Lanka-Cities.xlsx
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.exe
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.deps.json
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.runtimeconfig.json
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.runtimeconfig.dev.json
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.pdb
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\ExcelDataReader.DataSet.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.csproj.CopyComplete
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.pdb
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.genruntimeconfig.cache
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ExtractExcel\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.csprojAssemblyReference.cache
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Data\Sri Lanka-Cities.xlsx
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.exe
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.deps.json
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.runtimeconfig.json
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.runtimeconfig.dev.json
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.pdb
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\ExcelDataReader.DataSet.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.AssemblyInfoInputs.cache
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.AssemblyInfo.cs
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.csproj.CoreCompileInputs.cache
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.csproj.CopyComplete
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.pdb
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.ExtractExcel\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.genruntimeconfig.cache
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Data\Sri Lanka-Cities.xlsx
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.exe
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.deps.json
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.runtimeconfig.json
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.runtimeconfig.dev.json
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.pdb
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\ExcelDataReader.DataSet.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.csproj.AssemblyReference.cache
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.AssemblyInfoInputs.cache
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.AssemblyInfo.cs
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.csproj.CoreCompileInputs.cache
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.csproj.CopyComplete
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.pdb
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.ExtractExcel\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.ExtractExcel.genruntimeconfig.cache

@@ -1,0 +1,19 @@
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\BackEnd\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\BackEnd\Entity\bin\Debug\netstandard2.0\Entity.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\BackEnd\Entity\bin\Debug\netstandard2.0\Entity.pdb
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\BackEnd\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\BackEnd\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\BackEnd\Entity\obj\Debug\netstandard2.0\Entity.csproj.CoreCompileInputs.cache
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\BackEnd\Entity\obj\Debug\netstandard2.0\Entity.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\BackEnd\Entity\obj\Debug\netstandard2.0\Entity.pdb
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\BackEnd\Entity\obj\Debug\netstandard2.0\Entity.csproj.AssemblyReference.cache
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\BackEnd\Entity\obj\Debug\netstandard2.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\Entity\bin\Debug\netstandard2.0\Entity.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\Entity\bin\Debug\netstandard2.0\Entity.pdb
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\Entity\obj\Debug\netstandard2.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\Entity\obj\Debug\netstandard2.0\Entity.csproj.CoreCompileInputs.cache
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\Entity\obj\Debug\netstandard2.0\Entity.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\Entity\obj\Debug\netstandard2.0\Entity.pdb

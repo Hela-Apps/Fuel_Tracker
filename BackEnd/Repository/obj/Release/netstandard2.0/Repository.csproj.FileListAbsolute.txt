@@ -1,0 +1,12 @@
+D:\Chamath\Inovint ERP\inovitwebapi\Repository\bin\Release\netstandard2.0\Repository.deps.json
+D:\Chamath\Inovint ERP\inovitwebapi\Repository\bin\Release\netstandard2.0\Repository.dll
+D:\Chamath\Inovint ERP\inovitwebapi\Repository\bin\Release\netstandard2.0\Repository.pdb
+D:\Chamath\Inovint ERP\inovitwebapi\Repository\bin\Release\netstandard2.0\Entity.dll
+D:\Chamath\Inovint ERP\inovitwebapi\Repository\bin\Release\netstandard2.0\Entity.pdb
+D:\Chamath\Inovint ERP\inovitwebapi\Repository\obj\Release\netstandard2.0\Repository.csprojAssemblyReference.cache
+D:\Chamath\Inovint ERP\inovitwebapi\Repository\obj\Release\netstandard2.0\Repository.AssemblyInfoInputs.cache
+D:\Chamath\Inovint ERP\inovitwebapi\Repository\obj\Release\netstandard2.0\Repository.AssemblyInfo.cs
+D:\Chamath\Inovint ERP\inovitwebapi\Repository\obj\Release\netstandard2.0\Repository.csproj.CoreCompileInputs.cache
+D:\Chamath\Inovint ERP\inovitwebapi\Repository\obj\Release\netstandard2.0\Repository.csproj.CopyComplete
+D:\Chamath\Inovint ERP\inovitwebapi\Repository\obj\Release\netstandard2.0\Repository.dll
+D:\Chamath\Inovint ERP\inovitwebapi\Repository\obj\Release\netstandard2.0\Repository.pdb

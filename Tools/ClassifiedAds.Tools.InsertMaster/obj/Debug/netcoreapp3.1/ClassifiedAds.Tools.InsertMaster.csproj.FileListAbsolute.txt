@@ -1,0 +1,159 @@
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.csprojAssemblyReference.cache
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.AssemblyInfoInputs.cache
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.AssemblyInfo.cs
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.csproj.CoreCompileInputs.cache
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.MvcApplicationPartsAssemblyInfo.cs
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.MvcApplicationPartsAssemblyInfo.cache
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\appsettings.Production.json
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.exe
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.deps.json
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.runtimeconfig.json
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.runtimeconfig.dev.json
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.pdb
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Serilog.Sinks.Seq.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Entity.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Entity.pdb
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.RazorTargetAssemblyInfo.cache
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.csproj.CopyComplete
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\obj\Debug\netcoreapp3.1\staticwebassets\ClassifiedAds.Tools.InsertMaster.StaticWebAssets.Manifest.cache
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\obj\Debug\netcoreapp3.1\staticwebassets\ClassifiedAds.Tools.InsertMaster.StaticWebAssets.xml
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.dll
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.pdb
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.genruntimeconfig.cache
+D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Master\cities.json
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Master\cities.json
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\appsettings.Production.json
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.exe
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.deps.json
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.runtimeconfig.json
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.runtimeconfig.dev.json
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.pdb
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Serilog.Sinks.Seq.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Entity.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\bin\Debug\netcoreapp3.1\Entity.pdb
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.csproj.AssemblyReference.cache
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.AssemblyInfoInputs.cache
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.AssemblyInfo.cs
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.csproj.CoreCompileInputs.cache
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.MvcApplicationPartsAssemblyInfo.cs
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.MvcApplicationPartsAssemblyInfo.cache
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\obj\Debug\netcoreapp3.1\staticwebassets\ClassifiedAds.Tools.InsertMaster.StaticWebAssets.Manifest.cache
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\obj\Debug\netcoreapp3.1\staticwebassets\ClassifiedAds.Tools.InsertMaster.StaticWebAssets.xml
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\obj\Debug\netcoreapp3.1\scopedcss\bundle\ClassifiedAds.Tools.InsertMaster.styles.css
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.RazorTargetAssemblyInfo.cache
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.csproj.CopyComplete
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.pdb
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\Tools\ClassifiedAds.Tools.InsertMaster\obj\Debug\netcoreapp3.1\ClassifiedAds.Tools.InsertMaster.genruntimeconfig.cache
