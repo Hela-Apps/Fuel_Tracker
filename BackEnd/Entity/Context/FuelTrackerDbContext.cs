@@ -17,6 +17,9 @@ namespace Entity.Context
         public DbSet<City> City { get; set; }
         public DbSet<Category> Category { get; set; }
         public DbSet<FuelType> FuelType { get; set; }
+        public DbSet<Station> Station { get; set; }
+        public DbSet<StationFuelType> StationFuelType { get; set; }
+        public DbSet<Company> Company { get; set; }
 
     }
 }
