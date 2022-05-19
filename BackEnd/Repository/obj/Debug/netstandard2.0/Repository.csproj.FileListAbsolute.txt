@@ -35,16 +35,16 @@ D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\BackEnd\Repository\o
 D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\BackEnd\Repository\obj\Debug\netstandard2.0\Repository.pdb
 D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\BackEnd\Repository\obj\Debug\netstandard2.0\Repository.csproj.AssemblyReference.cache
 D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\BackEnd\Repository\obj\Debug\netstandard2.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
-D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\Repository\obj\Debug\netstandard2.0\Repository.csproj.AssemblyReference.cache
-D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\Repository\obj\Debug\netstandard2.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
-D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfoInputs.cache
-D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfo.cs
-D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\Repository\obj\Debug\netstandard2.0\Repository.csproj.CoreCompileInputs.cache
-D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\Repository\obj\Debug\netstandard2.0\Repository.dll
-D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\Repository\obj\Debug\netstandard2.0\Repository.pdb
 D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\Repository\bin\Debug\netstandard2.0\Repository.deps.json
 D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\Repository\bin\Debug\netstandard2.0\Repository.dll
 D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\Repository\bin\Debug\netstandard2.0\Repository.pdb
 D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\Repository\bin\Debug\netstandard2.0\Entity.dll
 D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\Repository\bin\Debug\netstandard2.0\Entity.pdb
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\Repository\obj\Debug\netstandard2.0\Repository.csproj.AssemblyReference.cache
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\Repository\obj\Debug\netstandard2.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfoInputs.cache
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfo.cs
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\Repository\obj\Debug\netstandard2.0\Repository.csproj.CoreCompileInputs.cache
 D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\Repository\obj\Debug\netstandard2.0\Repository.csproj.CopyComplete
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\Repository\obj\Debug\netstandard2.0\Repository.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\Repository\obj\Debug\netstandard2.0\Repository.pdb

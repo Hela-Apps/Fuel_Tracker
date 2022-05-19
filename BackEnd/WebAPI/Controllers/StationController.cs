@@ -1,9 +1,13 @@
-﻿using Domain.ViewModel;
+﻿using AutoMapper;
+using Domain.StationDomain;
+using Domain.ViewModel;
+using Entity.Models;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace WebAPI.Controllers
 {
@@ -11,16 +15,32 @@ namespace WebAPI.Controllers
     [ApiController]
     public class StationController : ControllerBase
     {
-        public StationController()
+        private readonly IStationService _stationService;
+        private  IMapper _mapper;
+        //protected IMapper Mapper => _mapper ??= HttpContext.RequestServices.GetService<IMapper>();
+        public StationController(IStationService stationService,IMapper mapper)
         {
-
+            _stationService = stationService;
+            _mapper = mapper;
         }
 
         [HttpPost]
-        public async Task<ActionResult> CreateStation(StationViewModel stationViewModel)
+        public async Task<ActionResult> CreateStation([FromBody] StationViewModel stationViewModel)
         {
-            var station = _
-            return Ok();
+            try
+            {
+                var station = _mapper.Map<Station>(stationViewModel);
+                return Ok(await _stationService.Create(station));
+            }
+            catch (Exception ex )
+            {
+
+                throw ex;
+            }
+            
         }
+
+        
     }
+    
 }

@@ -20,6 +20,8 @@ using Entity.Models;
 using Repository.Interfaces;
 using Repository.Implementation;
 using Domain.CommonDomain;
+using Domain.StationDomain;
+using System.Reflection;
 
 namespace FuelTracker.API
 {
@@ -35,7 +37,7 @@ namespace FuelTracker.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            //services.AddRepository();
+            //services.AddRepository();           
             services.AddAutoMapper(typeof(Startup));
             services.AddControllers();
 
@@ -57,6 +59,9 @@ namespace FuelTracker.API
 
             services.AddTransient<IDistrictRepository, DistrictRepository>();
             services.AddTransient<ICommonService, CommonService>();
+
+            services.AddTransient<IStationService, StationService>();
+            services.AddTransient<IStationRepository, StationRepository>();
 
             services.AddDbContext<FuelTrackerDbContext>(options =>
            options.UseSqlServer(Configuration.GetConnectionString("carDbConnect")));

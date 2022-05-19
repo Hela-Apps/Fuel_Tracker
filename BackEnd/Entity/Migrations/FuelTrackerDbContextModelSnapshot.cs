@@ -152,7 +152,7 @@ namespace Entity.Migrations
                     b.Property<int>("CityId")
                         .HasColumnType("int");
 
-                    b.Property<int>("Company")
+                    b.Property<int>("CompanyId")
                         .HasColumnType("int");
 
                     b.Property<bool>("IsActive")

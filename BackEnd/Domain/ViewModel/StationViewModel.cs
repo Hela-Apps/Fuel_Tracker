@@ -1,15 +1,22 @@
-﻿using System;
+﻿using AutoMapper;
+using Entity.Models;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace Domain.ViewModel
 {
-    public class StationViewModel
+    public class StationViewModel:Station
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public bool IsActive { get; set; }
-        public int Company { get; set; }
-        public int CityId { get; set; }
+        
+    }
+
+    public class StationProfile : Profile
+    {
+        public StationProfile()
+        {
+            CreateMap<Station, StationViewModel>();
+        }
+       
     }
 }

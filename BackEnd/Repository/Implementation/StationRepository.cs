@@ -1,4 +1,5 @@
-﻿using Entity.Models;
+﻿using Entity.Context;
+using Entity.Models;
 using Repository.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -10,9 +11,16 @@ namespace Repository.Implementation
 {
     public class StationRepository : IStationRepository
     {
-        public Task<int> Add(Station entity)
+        protected FuelTrackerDbContext _context;
+        public StationRepository(FuelTrackerDbContext context)
         {
-            throw new NotImplementedException();
+            _context = context;
+        }
+        public async Task<int> Add(Station entity)
+        {
+            await _context.Set<Station>().AddAsync(entity);
+            await _context.SaveChangesAsync();
+            return entity.Id;
         }
 
         public Task<int> CountAll()

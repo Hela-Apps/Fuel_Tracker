@@ -257,18 +257,9 @@ D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\BackEnd\WebAPI\obj\D
 D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
 D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
 D:\Chamath\Works\Vehicle Web\car_classified_ads\Application\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI.styles.css
-D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
-D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
-D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
-D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
-D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
-D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs
-D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
-D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
-D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
-D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.StaticWebAssets.xml
 D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.StaticWebAssets.xml
 D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
 D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
 D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
@@ -338,9 +329,18 @@ D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\bin\Debug\netcoreapp3.1
 D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Domain.pdb
 D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Entity.pdb
 D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Repository.pdb
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
 D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
 D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
 D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI.styles.css
 D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
 D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
 D:\Chamath\Works\FuelTracker\Fuel_Tracker\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
