@@ -1,5 +1,0 @@
-2022-05-19 20:00:04.229 +05:30 [INF] Starting IHostedService registered in Startup
-2022-05-19 20:00:05.447 +05:30 [INF] Start to read cities.json
-2022-05-19 20:00:06.742 +05:30 [INF] Inserting Successful cities.json
-2022-05-19 20:00:06.755 +05:30 [INF] Cities Inserting Process Completed Successfully
-2022-05-19 20:00:06.759 +05:30 [INF] StoppingIHostedService registered in Startup

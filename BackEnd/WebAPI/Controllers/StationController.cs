@@ -37,6 +37,8 @@ namespace WebAPI.Controllers
             return Ok(await _stationService.Get(id));
         }
 
+        //[HttpGet]
+        //public async Task<ActionResult> StationSearch()
 
     }
 
