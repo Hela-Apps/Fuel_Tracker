@@ -17,7 +17,6 @@ namespace WebAPI.Controllers
     {
         private readonly IStationService _stationService;
         private IMapper _mapper;
-        //protected IMapper Mapper => _mapper ??= HttpContext.RequestServices.GetService<IMapper>();
         public StationController(IStationService stationService, IMapper mapper)
         {
             _stationService = stationService;
@@ -37,8 +36,11 @@ namespace WebAPI.Controllers
             return Ok(await _stationService.Get(id));
         }
 
-        //[HttpGet]
-        //public async Task<ActionResult> StationSearch()
+        [HttpPost]
+        public async Task<ActionResult> CreateStationDetail()
+        {
+            return Ok();
+        }
 
     }
 
