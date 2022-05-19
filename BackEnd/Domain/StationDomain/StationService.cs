@@ -15,9 +15,14 @@ namespace Domain.StationDomain
             _stationRepository = stationRepository;
         }
 
-        public async Task<int> Create(Station station)
+        public async Task<Station> Create(Station station)
         {
            return await _stationRepository.Add(station);
+        }
+
+        public async Task<Station> Get(int id)
+        {
+            return await _stationRepository.GetById(id);
         }
     }
 }

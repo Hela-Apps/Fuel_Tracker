@@ -18,11 +18,11 @@ namespace Repository.Implementation
         {
             _context = context;
         }
-        public async Task<int> Add(City entity)
+        public async Task<City> Add(City entity)
         {
             await _context.Set<City>().AddAsync(entity);
             await _context.SaveChangesAsync();
-            return entity.Id;
+            return entity;
         }
 
         public Task<int> CountAll()
@@ -45,7 +45,7 @@ namespace Repository.Implementation
         {
             return await _context.Set<City>().Where(x=> x.DistrictId == id).ToListAsync();
         }
-        public async Task<City> GetById(long id)
+        public async Task<City> GetById(int id)
         {
             return await _context.Set<City>().FindAsync(id);
         }

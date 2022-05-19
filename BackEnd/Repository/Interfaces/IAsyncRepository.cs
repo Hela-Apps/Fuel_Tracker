@@ -1,5 +1,4 @@
 ﻿using Entity;
-using Entity;
 using System;
 using System.Collections.Generic;
 using System.Linq.Expressions;
@@ -11,10 +10,10 @@ namespace FuelTracker.Repository.Interfaces
     public interface IAsyncRepository<T> where T: class
     {
 
-        Task<T> GetById(long id);
+        Task<T> GetById(int id);
         Task<T> FirstOrDefault(Expression<Func<T, bool>> predicate);
 
-        Task<int> Add(T entity);
+        Task<T> Add(T entity);
         Task Update(T entity);
         Task Remove(T entity);
 

@@ -16,11 +16,11 @@ namespace Repository.Implementation
         {
             _context = context;
         }
-        public async Task<int> Add(Station entity)
+        public async Task<Station> Add(Station entity)
         {
             await _context.Set<Station>().AddAsync(entity);
             await _context.SaveChangesAsync();
-            return entity.Id;
+            return entity;
         }
 
         public Task<int> CountAll()
@@ -43,9 +43,9 @@ namespace Repository.Implementation
             throw new NotImplementedException();
         }
 
-        public Task<Station> GetById(long id)
+        public async Task<Station> GetById(int id)
         {
-            throw new NotImplementedException();
+            return await _context.Set<Station>().FindAsync(id);
         }
 
         public Task<IEnumerable<Station>> GetWhere(Expression<Func<Station, bool>> predicate)
