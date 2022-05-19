@@ -16,9 +16,9 @@ namespace WebAPI.Controllers
     public class StationController : ControllerBase
     {
         private readonly IStationService _stationService;
-        private  IMapper _mapper;
+        private IMapper _mapper;
         //protected IMapper Mapper => _mapper ??= HttpContext.RequestServices.GetService<IMapper>();
-        public StationController(IStationService stationService,IMapper mapper)
+        public StationController(IStationService stationService, IMapper mapper)
         {
             _stationService = stationService;
             _mapper = mapper;
@@ -27,20 +27,17 @@ namespace WebAPI.Controllers
         [HttpPost]
         public async Task<ActionResult> CreateStation([FromBody] StationViewModel stationViewModel)
         {
-            try
-            {
-                var station = _mapper.Map<Station>(stationViewModel);
-                return Ok(await _stationService.Create(station));
-            }
-            catch (Exception ex )
-            {
-
-                throw ex;
-            }
-            
+            var station = _mapper.Map<Station>(stationViewModel);
+            return Ok(await _stationService.Create(station));
         }
 
-        
+        [HttpGet]
+        public async Task<ActionResult> GetStation(int id)
+        {
+            return Ok(await _stationService.Get(id));
+        }
+
+
     }
-    
+
 }

@@ -19,11 +19,11 @@ namespace Repository.Implementation
         {
             _context = context;
         }
-        public async Task<int> Add(Category entity)
+        public async Task<Category> Add(Category entity)
         {
             await _context.Set<Category>().AddAsync(entity);
             await _context.SaveChangesAsync();
-            return entity.Id;
+            return entity;
         }
 
         public Task<int> CountAll()
@@ -42,7 +42,7 @@ namespace Repository.Implementation
             return await _context.Set<Category>().ToListAsync();
         }
 
-        public async Task<Category> GetById(long id)
+        public async Task<Category> GetById(int id)
         {
             return await _context.Set<Category>().FindAsync(id);
         }

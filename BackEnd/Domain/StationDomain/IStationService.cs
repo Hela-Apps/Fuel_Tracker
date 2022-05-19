@@ -8,6 +8,7 @@ namespace Domain.StationDomain
 {
     public interface IStationService
     {
-        Task<int> Create(Station station);
+        Task<Station> Create(Station station);
+        Task<Station> Get(int id);
     }
 }

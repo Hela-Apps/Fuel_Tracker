@@ -28,7 +28,7 @@ namespace FuelTracker.Repository.Implementation
 
         #region Public Methods
 
-        public async Task<T> GetById(long id)
+        public async Task<T> GetById(int id)
         {
             return await Context.Set<T>().FindAsync(id);
         }
@@ -73,7 +73,7 @@ namespace FuelTracker.Repository.Implementation
         public Task<int> CountWhere(Expression<Func<T, bool>> predicate)
             => Context.Set<T>().CountAsync(predicate);
 
-        Task<int> IAsyncRepository<T>.Add(T entity)
+        Task<T> IAsyncRepository<T>.Add(T entity)
         {
             throw new NotImplementedException();
         }
