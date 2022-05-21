@@ -6,6 +6,10 @@ import { HomeComponent } from './component/home/home.component';
 import { AppRoutingModule } from './app-routing.module';
 import { FindComponent } from './component/find/find.component';
 import { FullLayoutComponent } from './layout/full-layout/full-layout.component';
+import { DropDownsModule } from '@progress/kendo-angular-dropdowns';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -16,7 +20,11 @@ import { FullLayoutComponent } from './layout/full-layout/full-layout.component'
   imports: [
     BrowserModule,
 
-    AppRoutingModule
+    AppRoutingModule,
+
+    DropDownsModule,
+
+    BrowserAnimationsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
