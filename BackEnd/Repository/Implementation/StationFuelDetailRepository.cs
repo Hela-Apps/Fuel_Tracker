@@ -1,7 +1,10 @@
-﻿using Entity.Models;
+﻿using Entity.Context;
+using Entity.Models;
+using Microsoft.EntityFrameworkCore;
 using Repository.Interfaces;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,9 +13,17 @@ namespace Repository.Implementation
 {
     public class StationFuelDetailRepository : IStationFuelDetailRepository
     {
-        public Task<StationFuelDetail> Add(StationFuelDetail entity)
+        protected FuelTrackerDbContext _context;
+        public StationFuelDetailRepository(FuelTrackerDbContext context)
         {
-            throw new NotImplementedException();
+            _context = context;
+        }
+
+        public async Task<StationFuelDetail> Add(StationFuelDetail entity)
+        {
+            await _context.Set<StationFuelDetail>().AddAsync(entity);
+            await _context.SaveChangesAsync();
+            return entity;
         }
 
         public Task<int> CountAll()
@@ -54,5 +65,11 @@ namespace Repository.Implementation
         {
             throw new NotImplementedException();
         }
+
+        public async Task<List<StationFuelDetail>> GetStationDetailByStation(int stationId)
+        {
+          return  await _context.StationFuelDetail.Where(x => x.StationId == stationId && x.IsActive == true).ToListAsync();
+        }
+       
     }
 }

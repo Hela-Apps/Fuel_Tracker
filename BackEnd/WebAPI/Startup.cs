@@ -22,6 +22,7 @@ using Repository.Implementation;
 using Domain.CommonDomain;
 using Domain.StationDomain;
 using System.Reflection;
+using Domain.StationDetailDomain;
 
 namespace FuelTracker.API
 {
@@ -62,6 +63,9 @@ namespace FuelTracker.API
 
             services.AddTransient<IStationService, StationService>();
             services.AddTransient<IStationRepository, StationRepository>();
+
+            services.AddTransient<IStationFuelDetailRepository, StationFuelDetailRepository>();
+            services.AddTransient<IStationDetailService, StationDetailService>();
 
             services.AddDbContext<FuelTrackerDbContext>(options =>
            options.UseSqlServer(Configuration.GetConnectionString("carDbConnect")));
