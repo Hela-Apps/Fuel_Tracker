@@ -1,3 +1,22 @@
 .navbar-toggler {
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,102,203, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E")!important;
-} 
+}
+
+.k-list-item.k-selected, .k-selected.k-list-optionlabel {
+  background-color: #007CC7 !important;
+}
+.k-picker{
+  height: 3rem;
+}
+
+.main-container {
+  min-height: calc(100vh - 72px);
+  background-color: white;
+  background-image: url("/assets/images/backgrounds/Scout-Light-Background-2.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.btn{
+  height: 4rem !important;
+}

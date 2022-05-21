@@ -1,8 +1,28 @@
-<kendo-dropdownlist
-[data]="data"
-[filterable]="true"
-textField="text"
-valueField="value"
-(filterChange)="handleFilter($event)"
->
-</kendo-dropdownlist>
+<div class="container-fluid main-container mt-3">
+    <div class="d-flex justify-content-center">
+        <div class="col-12 col-sm-12 col-md-4 col-xl-4 col-lg-4">
+            <div class="card border-primary mb-3">
+                <div class=" card-header text-center font-weight-bold">Find</div>
+                <div class="card-body text-primary">
+                    <div class="mb-3">
+                        <kendo-dropdownlist [data]="categories" [filterable]="true" textField="name" valueField="id"
+                            [defaultItem]="defaultCategories" (filterChange)="handleCategoryFilter($event)">
+
+                        </kendo-dropdownlist>
+                    </div>
+                    <div class="mb-3">
+                        <kendo-dropdownlist [data]="district" (valueChange)="valueChange($event)" [filterable]="true"
+                            textField="name" valueField="id" [defaultItem]="defaultDistrict"
+                            (filterChange)="handleDistrictFilter($event)">
+                        </kendo-dropdownlist>
+                    </div>
+                    <div class="mb-3">
+                        <kendo-dropdownlist [data]="city" [filterable]="true" textField="name" valueField="id"
+                            [defaultItem]="defaultCity" (filterChange)="handleCityFilter($event)">
+                        </kendo-dropdownlist>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
