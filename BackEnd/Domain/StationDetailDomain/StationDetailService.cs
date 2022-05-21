@@ -51,6 +51,11 @@ namespace Domain.StationDetailDomain
             return detailList;
         }
 
+        public async Task<StationFuelDetail> UpdateFuelAvailabilityStatus(int fuelDetailId, bool status)
+        {
+           return await _stationFuelDetailRepository.UpdateStatus(fuelDetailId, status);
+        }
+
 
     }
 }

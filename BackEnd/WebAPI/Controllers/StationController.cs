@@ -47,6 +47,12 @@ namespace WebAPI.Controllers
             return Ok(await _stationDetailService.GetStationDetailList(stationId));
         }
 
+        [HttpPut("UpdateFuelAvailability")]
+        public async Task<ActionResult> UpdateFuelAvailability (int detailId, bool status)
+        {
+          return Ok(await  _stationDetailService.UpdateFuelAvailabilityStatus(detailId, status));
+        }
+
     }
 
 }

@@ -11,5 +11,6 @@ namespace Repository.Interfaces
     {
         Task<List<StationFuelDetail>> GetStationDetailByStation(int stationId);
         Task<StationFuelDetail> Add(StationFuelDetail entity);
+        Task<StationFuelDetail> UpdateStatus(int id, bool status);
     }
 }
