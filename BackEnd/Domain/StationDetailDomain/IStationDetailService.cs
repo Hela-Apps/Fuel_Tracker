@@ -11,5 +11,6 @@ namespace Domain.StationDetailDomain
         Task<List<StationFuelDetail>> GetStationDetailList(int stationId);
         Task<StationFuelDetail> AddStationDetail(StationFuelDetail stationFuelDetail);
         Task<List<StationFuelDetail>> AddAutomatedStationDetails(int stationId);
+        Task<StationFuelDetail> UpdateFuelAvailabilityStatus(int fuelDetailId, bool status);
     }
 }

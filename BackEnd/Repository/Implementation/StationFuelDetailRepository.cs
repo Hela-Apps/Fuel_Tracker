@@ -70,6 +70,14 @@ namespace Repository.Implementation
         {
           return  await _context.StationFuelDetail.Where(x => x.StationId == stationId && x.IsActive == true).ToListAsync();
         }
+        public async Task<StationFuelDetail> UpdateStatus(int id, bool status)
+        {
+            var entity = await _context.StationFuelDetail.Where(x => x.Id == id).FirstOrDefaultAsync();
+            entity.Availability = status;
+            entity.LastUpdatedTime = DateTime.Now.ToUniversalTime();
+            await _context.SaveChangesAsync();
+            return entity;
+        }
        
     }
 }
