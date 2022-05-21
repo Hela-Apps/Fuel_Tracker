@@ -8,6 +8,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.Extensions.DependencyInjection;
+using Domain.StationDetailDomain;
 
 namespace WebAPI.Controllers
 {
@@ -16,11 +17,12 @@ namespace WebAPI.Controllers
     public class StationController : ControllerBase
     {
         private readonly IStationService _stationService;
+        private readonly IStationDetailService _stationDetailService;
         private IMapper _mapper;
-        //protected IMapper Mapper => _mapper ??= HttpContext.RequestServices.GetService<IMapper>();
-        public StationController(IStationService stationService, IMapper mapper)
+        public StationController(IStationService stationService, IStationDetailService stationDetailService, IMapper mapper)
         {
             _stationService = stationService;
+            _stationDetailService = stationDetailService;
             _mapper = mapper;
         }
 
@@ -28,17 +30,28 @@ namespace WebAPI.Controllers
         public async Task<ActionResult> CreateStation([FromBody] StationViewModel stationViewModel)
         {
             var station = _mapper.Map<Station>(stationViewModel);
-            return Ok(await _stationService.Create(station));
+            await _stationService.Create(station);
+            await _stationDetailService.AddAutomatedStationDetails(station.Id);
+            return Ok(station);
         }
 
-        [HttpGet]
+        [HttpGet("GetStation")]
         public async Task<ActionResult> GetStation(int id)
         {
             return Ok(await _stationService.Get(id));
         }
 
-        //[HttpGet]
-        //public async Task<ActionResult> StationSearch()
+        [HttpGet("CreateStationDetail")]
+        public async Task<ActionResult> CreateStationDetail(int stationId)
+        {
+            return Ok(await _stationDetailService.GetStationDetailList(stationId));
+        }
+
+        [HttpPut("UpdateFuelAvailability")]
+        public async Task<ActionResult> UpdateFuelAvailability (int detailId, bool status)
+        {
+          return Ok(await  _stationDetailService.UpdateFuelAvailabilityStatus(detailId, status));
+        }
 
     }
 
