@@ -24,5 +24,10 @@ namespace Domain.StationDomain
         {
             return await _stationRepository.GetById(id);
         }
+
+        public async Task<List<Station>> GetStationByCity (int cityId)
+        {
+            return await _stationRepository.GetStationListByCity(cityId);
+        }
     }
 }

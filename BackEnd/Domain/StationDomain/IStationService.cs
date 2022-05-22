@@ -10,5 +10,6 @@ namespace Domain.StationDomain
     {
         Task<Station> Create(Station station);
         Task<Station> Get(int id);
+        Task<List<Station>> GetStationByCity(int cityId);
     }
 }
