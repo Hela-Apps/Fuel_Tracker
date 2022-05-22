@@ -53,6 +53,12 @@ namespace WebAPI.Controllers
           return Ok(await  _stationDetailService.UpdateFuelAvailabilityStatus(detailId, status));
         }
 
+        [HttpGet("FuelSearch")]
+        public async Task<ActionResult> FuelSearch(int categoryId,int cityId)
+        {
+            return Ok(await _stationDetailService.FuelAvailabilitySearch(cityId, categoryId));
+        }
+
     }
 
 }

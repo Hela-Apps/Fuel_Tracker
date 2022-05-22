@@ -68,7 +68,7 @@ namespace Repository.Implementation
 
         public async Task<List<StationFuelDetail>> GetStationDetailByStation(int stationId)
         {
-          return  await _context.StationFuelDetail.Where(x => x.StationId == stationId && x.IsActive == true).ToListAsync();
+            return await _context.StationFuelDetail.Where(x => x.StationId == stationId && x.IsActive == true).ToListAsync();
         }
         public async Task<StationFuelDetail> UpdateStatus(int id, bool status)
         {
@@ -78,6 +78,23 @@ namespace Repository.Implementation
             await _context.SaveChangesAsync();
             return entity;
         }
-       
+
+        public async Task<StationFuelDetail> GetbyStationId(int stationId)
+        {
+            return await _context.StationFuelDetail.Where(x => x.StationId == stationId).FirstOrDefaultAsync();
+        }
+
+        public async Task<List<FuelSearchResults>> FuelSearchByCity(int categoryId, int cityId)
+        {
+            var fuelSearchResult = new FuelSearchResults();
+
+            var results = await (from d in _context.StationFuelDetail
+                          join s in _context.Station on d.StationId equals s.Id
+                          join c in _context.Category on d.CategoryId equals c.Id
+                          where c.Id == categoryId && s.CityId == cityId
+                          select new FuelSearchResults { StationName = s.Name, CategoryName = c.Name, AvailabilityStatus = d.Availability, CityId = s.CityId, CategoryId = d.CategoryId,LastUpdatedTime = d.LastUpdatedTime }).ToListAsync();
+             return results;
+        }
+
     }
 }
