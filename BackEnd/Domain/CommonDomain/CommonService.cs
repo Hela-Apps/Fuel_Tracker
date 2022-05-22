@@ -17,15 +17,18 @@ namespace Domain.CommonDomain
         private readonly ICategoryRepository _categoryRepository;
         private readonly IDistrictRepository _districtRepository;
         private readonly ICityRepository _cityRepository;
+        private readonly ICompanyRepository _companyRepository;
         public CommonService(
             ICategoryRepository categoryRepository,
             IDistrictRepository districtRepository,
-            ICityRepository cityRepository)
+            ICityRepository cityRepository,
+            ICompanyRepository companyRepository)
         {
            
             _categoryRepository = categoryRepository;
             _districtRepository = districtRepository;
             _cityRepository = cityRepository;
+            _companyRepository = companyRepository;
         }
                 
         public async Task<IEnumerable<Category>> GetAllCategories()
@@ -45,5 +48,10 @@ namespace Domain.CommonDomain
             return conditions.Where(x => x.IsActive == true);
         }
 
+        public async Task<IEnumerable<Company>> GetAllCompanies()
+        {
+            var conditions = await _companyRepository.GetAll();
+            return conditions.Where(x => x.IsActive == true);
+        }
     }
 }
