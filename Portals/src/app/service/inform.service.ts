@@ -16,4 +16,6 @@ export class InformService {
     const addStationUrl = `${environment.apiUrl}Station`
     return this._http.post<any>( addStationUrl, data)
   }
+
+
 }
