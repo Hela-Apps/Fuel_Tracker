@@ -41,7 +41,7 @@ namespace WebAPI.Controllers
             return Ok(await _stationService.Get(id));
         }
 
-        [HttpGet("CreateStationDetail")]
+        [HttpGet("GetStationDetailByStation")]
         public async Task<ActionResult> CreateStationDetail(int stationId)
         {
             return Ok(await _stationDetailService.GetStationDetailList(stationId));
