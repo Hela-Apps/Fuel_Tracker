@@ -24,4 +24,14 @@ export interface Category {
   cityId: number
   }
 
+  export interface FuelDetail {
+  districtId: number
+  cityId  : string,
+  categoryId: boolean,
+  categoryName: string,
+  stationName: string,
+  availabilityStatus: boolean,
+  lastUpdatedTime: Date
+  }
+
 

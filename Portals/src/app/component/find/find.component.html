@@ -7,29 +7,53 @@
                     <form [formGroup]="find">
                         <div class="mb-3">
                             <kendo-dropdownlist [data]="categories" [filterable]="true" textField="name" valueField="id"
-                                [defaultItem]="defaultCategories" (valueChange)="valueChangeCategories($event)"(filterChange)="handleCategoryFilter($event)"
-                                formControlName="categories">
+                                [defaultItem]="defaultCategories" (valueChange)="valueChangeCategories($event)"
+                                (filterChange)="handleCategoryFilter($event)" formControlName="categories">
 
                             </kendo-dropdownlist>
                         </div>
                         <div class="mb-3">
                             <kendo-dropdownlist [data]="district" (valueChange)="valueChangeDistrict($event)"
                                 [filterable]="true" textField="name" valueField="id" [defaultItem]="defaultDistrict"
-                                (filterChange)="handleDistrictFilter($event)" formControlName="district" [disabled]="!isSelectedProduct">
+                                (filterChange)="handleDistrictFilter($event)" formControlName="district"
+                                [disabled]="!isSelectedProduct">
                             </kendo-dropdownlist>
                         </div>
                         <div class="mb-3">
-                            <kendo-dropdownlist [data]="city" (valueChange)="valueChangeCity($event)" [filterable]="true" textField="name" valueField="id"
-                                [defaultItem]="defaultCity" (filterChange)="handleCityFilter($event)" formControlName="city"
+                            <kendo-dropdownlist [data]="city" (valueChange)="valueChangeCity($event)"
+                                [filterable]="true" textField="name" valueField="id" [defaultItem]="defaultCity"
+                                (filterChange)="handleCityFilter($event)" formControlName="city"
                                 [disabled]="!isSelectedCity">
                             </kendo-dropdownlist>
                         </div>
-                        <button type="button" [disabled]="!find.valid" class="btn btn-primary btn-lg btn-block col-12">Search</button>
+                        <button type="button" [disabled]="!find.valid"
+                            class="btn btn-primary btn-lg btn-block col-12">Search</button>
                     </form>
-                   
+
                 </div>
 
             </div>
         </div>
     </div>
-</div>
+    <div>
+        <div class="row">
+            <div class="col-12 col-sm-12 col-md-3 col-xl-3 col-lg-3" *ngFor="let fuelDetails of fuelDetail">
+                <div class="card text-center">
+                    <div class="card-header">
+                        {{fuelDetails.categoryName}}
+                    </div>
+                    <div class="card-body">
+                        <div *ngIf="fuelDetails.availabilityStatus">
+                            <button type="button" class="btn btn-success">Yes</button>
+                        </div>
+                        <div *ngIf="!fuelDetails.availabilityStatus">
+                            <button type="button" class="btn btn-danger">No</button>
+                        </div>
+                    </div>
+                    <div class="card-footer text-muted">
+                        Last Updated Time : {{fuelDetails.lastUpdatedTime | date:'short'}}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>

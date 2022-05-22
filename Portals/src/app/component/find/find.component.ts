@@ -1,7 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import { FormControl, FormGroup, Validators } from '@angular/forms';
 import { CommonService } from 'src/app/service/common.service';
-import { Category, City, District } from 'src/app/service/common.interface';
+import { Category, City, District, FuelDetail } from 'src/app/service/common.interface';
+import { FindService } from 'src/app/service/find.service';
 
 
 @Component({
@@ -19,6 +20,9 @@ export class FindComponent implements OnInit {
   citySource: City[] = [];
   isSelectedCity = false;
   isSelectedProduct = false;
+  fuelDetail : FuelDetail[]=[];
+  categoryId : number =0;
+  cityId : number = 0;
 
 
   defaultCategories: { name: string; id: number } = {
@@ -40,9 +44,10 @@ export class FindComponent implements OnInit {
   })
 
 
-  constructor(private commonService: CommonService) {
+  constructor(private commonService: CommonService,private findService : FindService) {
     this.categories = this.categorySource.slice();
     this.district = this.districtSource.slice();
+    this.city = this.citySource.slice();
   }
 
   ngOnInit(): void {
@@ -105,6 +110,7 @@ export class FindComponent implements OnInit {
       this.isSelectedProduct = false;
     } else {
       this.isSelectedProduct = true;
+      this.categoryId = value.id;
 
     }
     this.isSelectedCity = false
@@ -133,7 +139,21 @@ export class FindComponent implements OnInit {
   valueChangeCity(value: Category): void {
     if (value.id === 0) {
       this.find.controls["city"].reset();
+    }else{
+      this.cityId = value.id;
+      this.getFuelDetail()
     }
+  }
+  getFuelDetail(){
+    this.findService.fuelSearch(this.categoryId,this.cityId).subscribe({
+      next: res => {
+        this.fuelDetail = res
+      
+      },
+      error: error => {
+        console.error(error)
+      }
+    })
   }
 
 }
