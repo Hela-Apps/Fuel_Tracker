@@ -21,6 +21,8 @@ export class FindComponent implements OnInit {
   isSelectedCity = false;
   isSelectedProduct = false;
   fuelDetail : FuelDetail[]=[];
+  categoryId : number =0;
+  cityId : number = 0;
 
 
   defaultCategories: { name: string; id: number } = {
@@ -108,6 +110,7 @@ export class FindComponent implements OnInit {
       this.isSelectedProduct = false;
     } else {
       this.isSelectedProduct = true;
+      this.categoryId = value.id;
 
     }
     this.isSelectedCity = false
@@ -137,11 +140,12 @@ export class FindComponent implements OnInit {
     if (value.id === 0) {
       this.find.controls["city"].reset();
     }else{
+      this.cityId = value.id;
       this.getFuelDetail()
     }
   }
   getFuelDetail(){
-    this.findService.fuelSearch(4,965).subscribe({
+    this.findService.fuelSearch(this.categoryId,this.cityId).subscribe({
       next: res => {
         this.fuelDetail = res
       
