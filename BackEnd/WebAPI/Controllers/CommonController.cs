@@ -66,6 +66,21 @@ namespace WebAPI.Controllers
             }
 
         }
-        
+
+        [HttpGet]
+        [Route("GetAllCompanies")]
+        public async Task<IActionResult> GetAllCompanies()
+        {
+            try
+            {
+                return Ok(await _commonService.GetAllCompanies());
+            }
+            catch (Exception ex)
+            {
+                throw ex.InnerException;
+            }
+
+        }
+
     }
 }

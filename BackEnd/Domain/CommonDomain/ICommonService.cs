@@ -12,5 +12,6 @@ namespace Domain.CommonDomain
         Task<IEnumerable<Category>> GetAllCategories();
         Task<IEnumerable<District>> GetAllDistricts();
         Task<IEnumerable<City>> GetAllCitiesbyDistrictId(int id);
+        Task<IEnumerable<Company>> GetAllCompanies();
     }
 }

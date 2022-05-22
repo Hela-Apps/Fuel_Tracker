@@ -56,6 +56,7 @@ namespace FuelTracker.API
            
             services.AddTransient<ICategoryRepository, CategoryRepository>();
             services.AddTransient<ICityRepository, CityRepository>();
+            services.AddTransient<ICompanyRepository, CompanyRepository>();
             services.AddScoped(typeof(IAsyncRepository<>), typeof(EfRepository<>));
 
             services.AddTransient<IDistrictRepository, DistrictRepository>();
