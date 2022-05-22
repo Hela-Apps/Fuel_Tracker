@@ -17,7 +17,7 @@ export class FindService {
     return this._http.get<any>(`${environment.apiUrl}Common/GetAllDistricts`)
   }
 
-  getAllCitiesbyDistrictId(id : number) {
+  getAllCitiesByDistrictId(id : number) {
     return this._http.get<any>(`${environment.apiUrl}Common/GetAllCitiesbyDistrictId?districtId=`+ id)
   }
 }
