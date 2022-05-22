@@ -41,7 +41,7 @@ namespace WebAPI.Controllers
             return Ok(await _stationService.Get(id));
         }
 
-        [HttpGet("CreateStationDetail")]
+        [HttpGet("GetStationDetailByStation")]
         public async Task<ActionResult> CreateStationDetail(int stationId)
         {
             return Ok(await _stationDetailService.GetStationDetailList(stationId));
@@ -51,6 +51,12 @@ namespace WebAPI.Controllers
         public async Task<ActionResult> UpdateFuelAvailability (int detailId, bool status)
         {
           return Ok(await  _stationDetailService.UpdateFuelAvailabilityStatus(detailId, status));
+        }
+
+        [HttpGet("FuelSearch")]
+        public async Task<ActionResult> FuelSearch(int categoryId,int cityId)
+        {
+            return Ok(await _stationDetailService.FuelAvailabilitySearch(cityId, categoryId));
         }
 
     }

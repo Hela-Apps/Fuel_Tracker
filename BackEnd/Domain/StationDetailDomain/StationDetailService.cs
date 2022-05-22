@@ -11,18 +11,22 @@ namespace Domain.StationDetailDomain
     {
         private readonly IStationFuelDetailRepository _stationFuelDetailRepository;
         private readonly ICategoryRepository _categoryRepository;
+        private readonly IStationRepository _stationRepository;
 
-        public StationDetailService(IStationFuelDetailRepository stationFuelDetailRepository, ICategoryRepository categoryRepository)
+        public StationDetailService(IStationFuelDetailRepository stationFuelDetailRepository,
+            ICategoryRepository categoryRepository,
+            IStationRepository stationRepository)
         {
             _stationFuelDetailRepository = stationFuelDetailRepository;
             _categoryRepository = categoryRepository;
+            _stationFuelDetailRepository = stationFuelDetailRepository;
         }
 
         public async Task<List<StationFuelDetail>> GetStationDetailList(int stationId)
         {
             return await _stationFuelDetailRepository.GetStationDetailByStation(stationId);
         }
-        public async Task<StationFuelDetail> AddStationDetail(StationFuelDetail  stationFuelDetail)
+        public async Task<StationFuelDetail> AddStationDetail(StationFuelDetail stationFuelDetail)
         {
             return await _stationFuelDetailRepository.Add(stationFuelDetail);
         }
@@ -53,9 +57,19 @@ namespace Domain.StationDetailDomain
 
         public async Task<StationFuelDetail> UpdateFuelAvailabilityStatus(int fuelDetailId, bool status)
         {
-           return await _stationFuelDetailRepository.UpdateStatus(fuelDetailId, status);
+            return await _stationFuelDetailRepository.UpdateStatus(fuelDetailId, status);
         }
 
+        public async Task<List<FuelSearchResults>> FuelAvailabilitySearch(int? cityId, int categoryId)
+        {
 
+            var stationDetailList = new List<FuelSearchResults>();
+            if(cityId != null)
+            {
+                stationDetailList = await _stationFuelDetailRepository.FuelSearchByCity(categoryId, cityId.Value);
+            }
+            
+            return stationDetailList;
+        }
     }
 }

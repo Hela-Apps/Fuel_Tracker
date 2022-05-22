@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace Domain.StationDetailDomain
 {
-   public  interface IStationDetailService
+    public interface IStationDetailService
     {
         Task<List<StationFuelDetail>> GetStationDetailList(int stationId);
         Task<StationFuelDetail> AddStationDetail(StationFuelDetail stationFuelDetail);
         Task<List<StationFuelDetail>> AddAutomatedStationDetails(int stationId);
         Task<StationFuelDetail> UpdateFuelAvailabilityStatus(int fuelDetailId, bool status);
+        Task<List<FuelSearchResults>> FuelAvailabilitySearch(int? cityId, int categoryId);
     }
 }

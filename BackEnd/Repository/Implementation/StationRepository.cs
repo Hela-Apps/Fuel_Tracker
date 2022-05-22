@@ -1,8 +1,10 @@
 ﻿using Entity.Context;
 using Entity.Models;
+using Microsoft.EntityFrameworkCore;
 using Repository.Interfaces;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
@@ -63,6 +65,9 @@ namespace Repository.Implementation
             throw new NotImplementedException();
         }
 
-            
+        public async Task<List<Station>> GetStationListByCity (int cityId)
+        {
+            return await _context.Station.Where(x => x.CityId == cityId).ToListAsync();
+        }
     }
 }
