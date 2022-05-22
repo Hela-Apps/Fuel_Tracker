@@ -10,6 +10,7 @@ import { DropDownsModule } from '@progress/kendo-angular-dropdowns';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HttpClientModule } from '@angular/common/http';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { InformComponent } from './component/inform/inform.component';
 
 
 @NgModule({
@@ -17,7 +18,8 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
     AppComponent,
     HomeComponent,
     FindComponent,
-    FullLayoutComponent
+    FullLayoutComponent,
+    InformComponent
   ],
   imports: [
     BrowserModule,

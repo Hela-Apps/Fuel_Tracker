@@ -1,1 +1,39 @@
-<p>inform works!</p>
+<div class="container-fluid main-container mt-3">
+    <div class="d-flex justify-content-center">
+        <div class="col-12 col-sm-12 col-md-4 col-xl-4 col-lg-4">
+            <div class="card border-primary mb-3">
+                <div class=" card-header text-center font-weight-bold">Inform others</div>
+                <div class="card-body text-primary">
+                    <form [formGroup]="inform">
+                        <div class="form-group mb-3">
+                            <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
+                                placeholder="Enter Name" formControlName="name">
+                        </div>
+                        <div class="form-group mb-3">
+                            <kendo-dropdownlist [data]="companies" [filterable]="true" textField="name" valueField="id"
+                                (filterChange)="handleCategoryFilter($event)" formControlName="companies">
+
+                            </kendo-dropdownlist>
+                        </div>
+                        <div class="form-group mb-3">
+                            <kendo-dropdownlist [data]="district" [filterable]="true" textField="name" valueField="id"
+                                [defaultItem]="defaultDistrict" (filterChange)="handleDistrictFilter($event)"
+                                formControlName="district" (valueChange)="valueChangeDistrict($event)">
+                            </kendo-dropdownlist>
+                        </div>
+
+                        <div class="form-group mb-3">
+                            <kendo-dropdownlist [data]="city" [filterable]="true" textField="name" valueField="id"
+                                [defaultItem]="defaultCity" (filterChange)="handleCityFilter($event)"
+                                formControlName="city">
+                            </kendo-dropdownlist>
+                        </div>
+                        <button type="button" [disabled]="!inform.valid" class="btn btn-primary btn-lg btn-block col-12">Submit</button>
+                    </form>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>

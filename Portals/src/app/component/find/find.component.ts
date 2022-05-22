@@ -1,7 +1,8 @@
 import { Component, OnInit } from '@angular/core';
-import { FormBuilder, FormControl, FormGroup, Validators } from '@angular/forms';
-import { Category, City, District } from 'src/app/service/find.interface';
-import { FindService } from 'src/app/service/find.service';
+import { FormControl, FormGroup, Validators } from '@angular/forms';
+import { CommonService } from 'src/app/service/common.service';
+import { Category, City, District } from 'src/app/service/common.interface';
+
 
 @Component({
   selector: 'app-find',
@@ -18,11 +19,6 @@ export class FindComponent implements OnInit {
   citySource: City[] = [];
   isSelectedCity = false;
   isSelectedProduct = false;
-  isSubmitDisabled = true;
-
-
-
-
 
 
   defaultCategories: { name: string; id: number } = {
@@ -38,19 +34,19 @@ export class FindComponent implements OnInit {
     id: 0,
   };
   find: FormGroup = new FormGroup({
-    categories: new FormControl(),
-    district: new FormControl(),
-    city: new FormControl(),
+    categories: new FormControl(null, Validators.required),
+    district: new FormControl(null, Validators.required),
+    city: new FormControl(null, Validators.required),
   })
 
 
-  constructor(private findService: FindService) {
+  constructor(private commonService: CommonService) {
     this.categories = this.categorySource.slice();
     this.district = this.districtSource.slice();
   }
 
   ngOnInit(): void {
-  
+
     this.getAllCategories();
     this.getAllGetAllDistricts();
   }
@@ -62,7 +58,7 @@ export class FindComponent implements OnInit {
 
   getAllCategories(): void {
 
-    this.findService.getAllCategories().subscribe({
+    this.commonService.getAllCategories().subscribe({
       next: res => {
         this.categories = res;
         this.categorySource = res
@@ -75,7 +71,7 @@ export class FindComponent implements OnInit {
 
   getAllGetAllDistricts(): void {
 
-    this.findService.getAllGetAllDistricts().subscribe({
+    this.commonService.getAllGetAllDistricts().subscribe({
       next: res => {
         this.district = res;
         this.districtSource = res;
@@ -96,10 +92,9 @@ export class FindComponent implements OnInit {
 
     if (value.id === 0) {
       this.isSelectedCity = false;
-      this.isSubmitDisabled = true;
     } else {
       this.isSelectedCity = true;
- 
+
     }
     this.find.controls["city"].reset();
     this.getAllCitiesByDistrictId(value.id)
@@ -108,10 +103,9 @@ export class FindComponent implements OnInit {
   valueChangeCategories(value: Category): void {
     if (value.id === 0) {
       this.isSelectedProduct = false;
-      this.isSubmitDisabled = true;
     } else {
       this.isSelectedProduct = true;
-  
+
     }
     this.isSelectedCity = false
     this.find.controls["city"].reset();
@@ -119,7 +113,7 @@ export class FindComponent implements OnInit {
   }
   getAllCitiesByDistrictId(id: number): void {
 
-    this.findService.getAllCitiesByDistrictId(id).subscribe({
+    this.commonService.getAllCitiesByDistrictId(id).subscribe({
       next: res => {
         this.city = res;
         this.citySource = res;
@@ -136,14 +130,10 @@ export class FindComponent implements OnInit {
     );
   }
 
-  valueChangeCity(value: City): void {
-
+  valueChangeCity(value: Category): void {
     if (value.id === 0) {
-      this.isSubmitDisabled = true;
-    } else {
-      this.isSubmitDisabled = false;
- 
+      this.find.controls["city"].reset();
     }
-   
   }
+
 }
