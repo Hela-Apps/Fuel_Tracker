@@ -3,11 +3,12 @@ import { CommonModule } from '@angular/common';
 import { RouterModule, Routes } from '@angular/router';
 import { HomeComponent } from './component/home/home.component';
 import { AppComponent } from './app.component';
+import { FullLayoutComponent } from './layout/full-layout/full-layout.component';
 
 const routes: Routes = [
   { path: '',   redirectTo: '/home', pathMatch: 'full' },
   {
-    path: '', component: AppComponent, data: { title: 'Home' },
+    path: '', component: FullLayoutComponent, data: { title: 'Home' },
 
   children: [
     {

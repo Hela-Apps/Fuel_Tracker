@@ -1,1 +1,34 @@
-<p>find works!</p>
+<div class="container-fluid main-container mt-3">
+    <div class="d-flex justify-content-center">
+        <div class="col-12 col-sm-12 col-md-4 col-xl-4 col-lg-4">
+            <div class="card border-primary mb-3">
+                <div class=" card-header text-center font-weight-bold">Find</div>
+                <div class="card-body text-primary">
+                    <form [formGroup]="find">
+                        <div class="mb-3">
+                            <kendo-dropdownlist [data]="categories" [filterable]="true" textField="name" valueField="id"
+                                [defaultItem]="defaultCategories" (valueChange)="valueChangeCategories($event)"(filterChange)="handleCategoryFilter($event)"
+                                formControlName="categories">
+
+                            </kendo-dropdownlist>
+                        </div>
+                        <div class="mb-3">
+                            <kendo-dropdownlist [data]="district" (valueChange)="valueChangeDistrict($event)"
+                                [filterable]="true" textField="name" valueField="id" [defaultItem]="defaultDistrict"
+                                (filterChange)="handleDistrictFilter($event)" formControlName="district" [disabled]="!isSelectedProduct">
+                            </kendo-dropdownlist>
+                        </div>
+                        <div class="mb-3">
+                            <kendo-dropdownlist [data]="city" (valueChange)="valueChangeCity($event)" [filterable]="true" textField="name" valueField="id"
+                                [defaultItem]="defaultCity" (filterChange)="handleCityFilter($event)" formControlName="city"
+                                [disabled]="!isSelectedCity">
+                            </kendo-dropdownlist>
+                        </div>
+                    </form>
+                    <button type="button" [disabled]="isSubmitDisabled" class="btn btn-primary btn-lg btn-block col-12">Search</button>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
