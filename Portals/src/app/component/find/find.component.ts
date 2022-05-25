@@ -20,10 +20,12 @@ export class FindComponent implements OnInit {
   citySource: City[] = [];
   isSelectedCity = false;
   isSelectedProduct = false;
-  fuelDetail : FuelDetail[]=[];
-  categoryId : number =0;
-  cityId : number = 0;
-
+  fuelDetail: FuelDetail[] = [];
+  categoryId: number = 0;
+  cityId: number = 0;
+  noData = false;
+  selectedCategoryName = "";
+  selectedCity = "";
 
   defaultCategories: { name: string; id: number } = {
     name: "Select  Petrol,Diesel,Gas etc here...",
@@ -44,7 +46,7 @@ export class FindComponent implements OnInit {
   })
 
 
-  constructor(private commonService: CommonService,private findService : FindService) {
+  constructor(private commonService: CommonService, private findService: FindService) {
     this.categories = this.categorySource.slice();
     this.district = this.districtSource.slice();
     this.city = this.citySource.slice();
@@ -111,6 +113,7 @@ export class FindComponent implements OnInit {
     } else {
       this.isSelectedProduct = true;
       this.categoryId = value.id;
+      this.selectedCategoryName = value.name;
 
     }
     this.isSelectedCity = false
@@ -139,16 +142,23 @@ export class FindComponent implements OnInit {
   valueChangeCity(value: Category): void {
     if (value.id === 0) {
       this.find.controls["city"].reset();
-    }else{
+    } else {
       this.cityId = value.id;
+      this.selectedCity = value.name;
       this.getFuelDetail()
     }
   }
-  getFuelDetail(){
-    this.findService.fuelSearch(this.categoryId,this.cityId).subscribe({
+  getFuelDetail() {
+    this.findService.fuelSearch(this.categoryId, this.cityId).subscribe({
       next: res => {
         this.fuelDetail = res
-      
+        if (this.fuelDetail.length === 0) {
+          this.noData = true;
+        } else {
+          this.noData = false;
+        }
+
+
       },
       error: error => {
         console.error(error)

@@ -26,8 +26,9 @@
                                 [disabled]="!isSelectedCity">
                             </kendo-dropdownlist>
                         </div>
-                        <button type="button" [disabled]="!find.valid"
-                            class="btn btn-primary btn-lg btn-block col-12"><fa-icon [icon]="['fas', 'search']"></fa-icon> Search </button>
+                        <button type="button" [disabled]="!find.valid" class="btn btn-primary btn-lg btn-block col-12">
+                            <fa-icon [icon]="['fas', 'search']"></fa-icon> Search
+                        </button>
                     </form>
 
                 </div>
@@ -36,24 +37,40 @@
         </div>
     </div>
     <div>
-        <div class="row">
-            <div class="col-12 col-sm-12 col-md-3 col-xl-3 col-lg-3" *ngFor="let fuelDetails of fuelDetail">
+        <div class="row" *ngIf="!noData">
+                <div class="col-12 col-sm-12 col-md-3 col-xl-3 col-lg-3" *ngFor="let fuelDetails of fuelDetail">
+                    <div class="card text-center">
+                        <div class="card-header">
+                            {{fuelDetails.categoryName}}
+                        </div>
+                        <div class="card-body">
+                            <div *ngIf="fuelDetails.availabilityStatus">
+                                <button type="button" class="btn btn-success">Yes</button>
+                            </div>
+                            <div *ngIf="!fuelDetails.availabilityStatus">
+                                <button type="button" class="btn btn-danger">No</button>
+                            </div>
+                        </div>
+                        <div class="card-footer text-muted">
+                            Last Updated Time : {{fuelDetails.lastUpdatedTime | date:'short'}}
+                        </div>
+                    </div>
+                </div>
+        </div>
+        <div class="row" *ngIf="noData">
+            <div class="col-sm-12">
                 <div class="card text-center">
                     <div class="card-header">
-                        {{fuelDetails.categoryName}}
+                       
                     </div>
                     <div class="card-body">
-                        <div *ngIf="fuelDetails.availabilityStatus">
-                            <button type="button" class="btn btn-success">Yes</button>
-                        </div>
-                        <div *ngIf="!fuelDetails.availabilityStatus">
-                            <button type="button" class="btn btn-danger">No</button>
-                        </div>
+                        Sorry.. No updates for Petrol {{ selectedCategoryName }} from {{ selectedCity}}
+                  
                     </div>
                     <div class="card-footer text-muted">
-                        Last Updated Time : {{fuelDetails.lastUpdatedTime | date:'short'}}
+                       
                     </div>
                 </div>
             </div>
-        </div>
+    </div>
     </div>
